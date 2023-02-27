@@ -57,7 +57,9 @@
         
       }
 
-      
+      p.azul {
+        color: white;
+      }
     
     section {
         margin-bottom: 2rem;
